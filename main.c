@@ -1,6 +1,10 @@
 #include <stdio.h>
 
 
+void test_function()
+{
+	printf("test function \n");
+}
 
 void hello_world()
 {
